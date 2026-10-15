@@ -23,7 +23,7 @@ public class Addtransaction extends JFrame {
     public Addtransaction(int userId) {
         this.userId = userId;
 
-        setTitle("KuberManager - Add Transaction");
+        setTitle("java crew - Add Transaction");
         setSize(500, 600);
         setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE);
         setLocationRelativeTo(null);
