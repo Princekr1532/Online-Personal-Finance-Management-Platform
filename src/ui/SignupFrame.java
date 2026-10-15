@@ -22,7 +22,7 @@ public class SignupFrame extends JFrame {
 
     public SignupFrame() {
 
-        setTitle("KuberManneger - Create Account");
+        setTitle("JAVA CREW - Create Account");
         setSize(900, 600);
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setLocationRelativeTo(null);
@@ -44,7 +44,7 @@ public class SignupFrame extends JFrame {
                 new EmptyBorder(70, 50, 50, 50)
         );
 
-        JLabel logo = new JLabel("KuberMannager");
+        JLabel logo = new JLabel("JAVA CREW");
         logo.setFont(
                 new Font("Arial", Font.BOLD, 32)
         );
