@@ -32,7 +32,7 @@ public class UserManagement extends JFrame {
     public UserManagement(int adminId) {
         this.adminId = adminId;
 
-        setTitle("Kuber Manager | User Security");
+        setTitle("Java crew | User Security");
         setSize(1050, 620);
         setMinimumSize(new Dimension(850, 500));
         setLocationRelativeTo(null);
